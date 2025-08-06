@@ -1,0 +1,2 @@
+xyz|123|2025-08-10|Low|rat|false
+abc|xyz|2025-08-15|Medium|hh|true
